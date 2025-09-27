@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# OS-generated files
+.DS_Store
+._*
+Thumbs.db
+
+# Data files
+# Add any other data file extensions you use
+*.csv
+*.parquet
+*.zip
+*.gz
+*.tgz
+*.dat
+*.data
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+
+# Exceptions
+# Keep sample submission files to show the expected format
+!**/sample_submission.csv
+
+# Output files
+submission.csv
+*.out
